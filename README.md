@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @unanmed
-- 👀 I’m interested in Web
+- 👋 Hi, I’m @AncTe
+- 👀 I’m interested in web and game developing
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: 1319491857@qq.com
